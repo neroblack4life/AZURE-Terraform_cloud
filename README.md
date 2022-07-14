@@ -1,2 +1,2 @@
-# AZURE-Terraform_cloud
-AZURE-Terraform_cloud
+# Azure_Terraform_github01
+Azure_Terraform_github01
